@@ -1,0 +1,12 @@
+# Estado propio de cada equipo: NUNCA se publica.
+# backup.json contiene los valores de registro originales de esa maquina.
+data/
+logs/
+
+# Artefactos de construccion
+instalador/build/
+instalador/*.exe
+
+# Windows
+Thumbs.db
+desktop.ini
